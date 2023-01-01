@@ -1,2 +1,4 @@
 # test
-Testing Git Features
+# Testing Git Features
+
+# Contains Add and Diff functions
