@@ -2,4 +2,4 @@
 def diff(a,b):
     return a-b
     
-diff(5,2)
+diff(4,2)
